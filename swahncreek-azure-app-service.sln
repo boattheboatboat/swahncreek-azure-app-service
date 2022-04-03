@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swahncreek-azure-app-service", "swahncreek-azure-app-service\swahncreek-azure-app-service.csproj", "{B6677E53-1E23-42BD-B2A3-559C08B67FB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6677E53-1E23-42BD-B2A3-559C08B67FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6677E53-1E23-42BD-B2A3-559C08B67FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6677E53-1E23-42BD-B2A3-559C08B67FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6677E53-1E23-42BD-B2A3-559C08B67FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C88653B0-A44A-4C55-A82C-53622136A8CB}
+	EndGlobalSection
+EndGlobal
